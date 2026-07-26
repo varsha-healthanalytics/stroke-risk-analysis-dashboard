@@ -124,7 +124,7 @@ stroke-risk-analysis-dashboard
 
 **Varsha**
 
-Aspiring Healthcare Data Analyst | Health Informatics Enthusiast
+Healthcare Data Analyst | Health Informatics Enthusiast
 
 ---
 
