@@ -124,7 +124,7 @@ stroke-risk-analysis-dashboard
 
 **Varsha**
 
-Healthcare Data Analyst | Health Informatics Enthusiast
+Healthcare Data Analyst | Health Informatics | Monitoring & Evaluation (M&E)
 
 ---
 
